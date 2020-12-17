@@ -1,0 +1,45 @@
+/* Nome: Jonathan Lucas de Matos Diniz
+RA: 17242126 */
+
+html {
+  font-size: 32px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #00539F;
+
+}
+
+p, li {
+  font-size: 16px;
+}
+
+p {
+  width: 100%;
+  color: red;
+  width: 500px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
